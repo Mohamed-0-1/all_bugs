@@ -1,0 +1,20 @@
+##بسم الله الرحمن الرحيم
+ثغره تحدث عندما يخل ضحيه عل يرابط ويتم توجيه
+##البارميتر الماصب بالثغره 
+```
+go
+return
+r_url
+returnUrl
+returnUri
+locationUrl
+goTo
+return_url
+return_uri
+ref=
+referrer=
+backUrl
+returnTo
+successUrl
+
+```
