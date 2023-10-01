@@ -1,0 +1,72 @@
+Malwarebytes
+www.malwarebytes.com
+
+-Log Details-
+Scan Date: 10/1/23
+Scan Time: 9:03 AM
+Log File: a075972a-6028-11ee-8e87-18c04dc4222f.json
+
+-Software Information-
+Version: 4.6.3.282
+Components Version: 1.0.2158
+Update Package Version: 1.0.75847
+License: Expired
+
+-System Information-
+OS: Windows 10 (Build 19045.2728)
+CPU: x64
+File System: NTFS
+User: Moahmed\mhamed and moahned
+
+-Scan Summary-
+Scan Type: Custom Scan
+Scan Initiated By: Manual
+Result: Completed
+Objects Scanned: 52162
+Threats Detected: 1
+Threats Quarantined: 1
+Time Elapsed: 2 min, 51 sec
+
+-Scan Options-
+Memory: Disabled
+Startup: Disabled
+Filesystem: Enabled
+Archives: Enabled
+Rootkits: Disabled
+Heuristics: Enabled
+PUP: Detect
+PUM: Detect
+
+-Scan Details-
+Process: 0
+(No malicious items detected)
+
+Module: 0
+(No malicious items detected)
+
+Registry Key: 0
+(No malicious items detected)
+
+Registry Value: 0
+(No malicious items detected)
+
+Registry Data: 0
+(No malicious items detected)
+
+Data Stream: 0
+(No malicious items detected)
+
+Folder: 0
+(No malicious items detected)
+
+File: 1
+Malware.AI.1419718246, M:\TABZ MODDED V5\TAHZ RUN THIS.EXE, Quarantined, 1000000, 1419718246, 1.0.75847, D40491B688A5B18C549F2E66, dds, 02497278, 3520A7451D875257E830EF4CDB244929, A04AC8BFA41694E3E43B5E0DFC745A5C2D45EB0B0CE1664CCBD3E6755716ABF2
+
+Physical Sector: 0
+(No malicious items detected)
+
+WMI: 0
+(No malicious items detected)
+
+
+(end)
